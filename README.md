@@ -1,3 +1,3 @@
 # demo-git
 Learning how to use github
-such an amaizing product
+such an amaizing product.
